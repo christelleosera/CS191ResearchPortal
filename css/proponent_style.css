@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+#container{
+	width: 1000px;
+	margin-left: 50px;
+}
+
+#viewtype{
+	float: left;
+	margin-left: 15px;
+	margin-top: 5px;
+	padding-top: 0px;
+	/*border: thin solid black;*/
+}
+
+#view{
+	width: 800px;
+	margin-left: 170px;
+	margin-top: 5px; 
+	text-align:center;
+	padding: 5px;
+	/*comment out later
+   border: thin solid black;*/
+}
+
+#createproposal{
+	margin-left: 50px;
+}
+
+table{
+	text-align:left;
+}
+
+#welcome{
+	margin-left: 1000px;
+	font: Georgia, "Times New Roman", Times, serif;
+	font-size:12px;
+}
